@@ -121,7 +121,7 @@ body {
 }
 
 #menu-tile, #specials-tile, #map-tile {
-  height: 250px;
+  height: 300px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
